@@ -1,12 +1,15 @@
+
 # Credit-Scoring-AI
 
-Project Title
+##Project Title
 Loan Approval Prediction using Machine Learning
 
-Description
+##Description
+
 This project builds a machine learning model to predict whether a loan application should be approved or not based on applicant details such as income, age, credit history, and loan amount.
 
-Objective
+## Objective
+
 Understand credit scoring
 Build a classification model
 Predict loan approval
@@ -41,7 +44,9 @@ Approved (1)
 Not Approved (0)
 Screenshots
 Dataset Preview
-Screenshot 2026-04-12 152650 image
+<img width="581" height="444" alt="577042447-c193c877-1d06-41fe-bedc-fc3a88720b82" src="https://github.com/user-attachments/assets/20fbbcd2-ab2d-4e17-87e6-868888346c71" />
+<img width="394" height="593" alt="577042620-7fa7a924-cf1e-461c-82f5-6ce00926e036" src="https://github.com/user-attachments/assets/4f20a4ac-5be2-45ac-9c08-582a495b5a07" />
+
 Colab Notebook
 
 https://colab.research.google.com/drive/1tywmNPVkTeLOR1_hO7gXZ3ERYBG3wiwD#scrollTo=VydgOZgVJ4G3
